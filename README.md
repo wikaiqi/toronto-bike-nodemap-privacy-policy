@@ -1,4 +1,4 @@
-# toronto-bike-nodemap-privacy-policy
+# GNodeTo-privacy-policy
 
 ## Privacy Policy for Toronto Bike Nodemap
 
